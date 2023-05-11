@@ -3,7 +3,7 @@
 # Project Documentation
 <p align="center">
   <a href="" rel="suraj">
- <img width=700px height=400px src="logo.png" alt="Screenshot(983).png"></a>
+ <img width=700px height=400px src="Screenshot (983).png" alt="Survey Form"></a>
 </p>
 
 <h3 align="center">Survey_Form</h3>
